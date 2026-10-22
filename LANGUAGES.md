@@ -10,4 +10,4 @@ The public site offers Russian (default), English, Tatar, Simplified Chinese and
 
 Run `NODE_PATH=/path/to/node_modules node qa/languages.cjs` with Playwright available. The test uses installed Google Chrome; set `CHROME_PATH` to another Chromium executable as needed. Python 3 serves the local site on port 8766. It checks five locales at 390px and 1440px, gallery dialogs, navigation, recommendations, form preservation, persistence, embedded intro and Telegram draft construction without sending a message.
 
-The older `qa/intro-scroll-regression.cjs` currently fails on the original main branch because its assertions expect an older intro implementation (`const siteUrl = './site.html'`). This language change does not alter that script or the intro controller.
+`qa/intro-scroll-regression.cjs` is stale: its assertions expect an older intro implementation (`const siteUrl = './site.html'`), and it currently fails.

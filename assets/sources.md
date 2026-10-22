@@ -22,8 +22,8 @@ The product cutouts are AI-assisted background extractions from actual Caterpill
 - work-5.jpg — Actual crawler snow clearance, unspecified model, Shinko La, India; do not label this as a particular Caterpillar model or Moscow job. Author Timothy A. Gonsalves, CC BY-SA 4.0. Attribution: https://commons.wikimedia.org/wiki/File:Bulldozer_Snow_Clearance_Shinko_La_Lungnak_Jun24_A7CR_00326.jpg . License https://creativecommons.org/licenses/by-sa/4.0/ . Download source https://commons.wikimedia.org/wiki/Special:Redirect/file/Bulldozer_Snow_Clearance_Shinko_La_Lungnak_Jun24_A7CR_00326.jpg?width=1280 . Photographer also requests contact before commercial use on source page.
 
 ## Map and generated graphics
-Map: the interactive geography section displays the OpenStreetMap standard raster layer with visible © OpenStreetMap contributors attribution and a marker at Kaleykino (54.932333, 52.191947), Almetyevsky District, Republic of Tatarstan. The village point is from Yandex Maps https://yandex.com/maps/geo/selo_kaleykino/53099869/ ; Kaleykino is a separate rural settlement outside Almetyevsk. The Almetyevsk city point (54.9005, 52.2964) follows OpenStreetMap node 2173235770. The Leaflet circles use straight-line radii of 50 km and 100 km; delivery is quoted by route. `map-kaleykino.webp` is retained as a loading fallback from the previous OpenStreetMap screenshot. Leaflet 1.9.4 is included under the license in `dist/vendor/LEAFLET-LICENSE.txt`.
-Three decorative orthographic drawings were generated separately with the built-in image generator. They are visual illustrations, not certified engineering drawings.
+Map: the interactive geography section displays the OpenStreetMap standard raster layer through Leaflet 1.9.4 (license in `vendor/LEAFLET-LICENSE.txt`), with visible © OpenStreetMap contributors attribution.
+Three decorative orthographic drawings were generated with an image-generation tool. They are visual illustrations, not certified engineering drawings.
 The displayed weights reproduce the supplied design; actual weight and dimensions depend on the machine configuration and attachments.
 
 ## Machine card specifications
@@ -33,7 +33,7 @@ The displayed weights reproduce the supplied design; actual weight and dimension
 
 The power and SU blade figures are catalog values for the specified versions, not verified specifications for individual rental units. Confirm the exact configuration before quoting a job. Card weights remain the values in the supplied design and are labeled approximate.
 
-All nine generated or edited assets were requested separately through the built-in image generator.
+All nine generated or edited assets were produced separately with an image-generation tool.
 
 ## Additional work examples
 - work-6.jpg — d6r-brochure-p2-0.jpeg, extracted from the corresponding D6R/D7R manufacturer brochure linked above. © Caterpillar. Example of a work type, not a claim of a LIGARENT job.

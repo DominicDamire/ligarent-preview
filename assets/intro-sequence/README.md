@@ -1,6 +1,6 @@
 # Scroll intro frames
 
-The scroll film comes from the existing 3840 × 2160 Atlas-source video at `ligarent/dist/assets/ligarent-intro-scroll-seedream-first-4k.mp4`. No new media generation or API charge.
+The scroll film is derived from a 3840 × 2160 source video.
 
 Each `.frames` bundle starts with a little-endian uint32 frame count, then that many little-endian uint32 frame lengths and WebP payloads. The public bundle keeps every second source frame plus the final frame: 59 frames in one request. At the site's roughly 1.15-second automatic handoff, this is about 50 displayed frames per second.
 
