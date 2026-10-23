@@ -2,7 +2,7 @@
 
 A static, five-language website for a bulldozer rental business in Tatarstan: a scroll-driven video intro, a machine picker, job photo albums, a service-area map and an enquiry form that opens a ready-made Telegram message.
 
-This repository is the source of the live site at **https://ligarent.com/** (GitHub Pages, custom domain via `CNAME`). An earlier version is kept in [d14life/ligarent](https://github.com/d14life/ligarent).
+This repository is the source of the live site at **https://ligarent.com/** (GitHub Pages, custom domain via `CNAME`). An earlier version is kept in [d14life/ligarent](https://github.com/DominicDamire/ligarent).
 
 ![LIGARENT home page, desktop](docs/screenshot.png)
 
@@ -26,7 +26,7 @@ Plain HTML, CSS and vanilla JavaScript with no build step. Vendored libraries in
 ## Run it
 
 ```bash
-git clone https://github.com/d14life/ligarent-preview.git
+git clone https://github.com/DominicDamire/ligarent-preview.git
 cd ligarent-preview
 python3 -m http.server 8000
 ```
