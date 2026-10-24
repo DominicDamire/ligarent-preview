@@ -2,7 +2,7 @@
 
 A static, five-language website for a bulldozer rental business in Tatarstan: a scroll-driven video intro, a machine picker, job photo albums, a service-area map and an enquiry form that opens a ready-made Telegram message.
 
-This repository is the source of the live site at **https://ligarent.com/** (GitHub Pages, custom domain via `CNAME`). An earlier version is kept in [DominicDamire/ligarent](https://github.com/DominicDamire/ligarent).
+This repository is the source of the live site at **https://ligarent.com/** (GitHub Pages, custom domain via `CNAME`).
 
 ![LIGARENT home page, desktop](docs/screenshot.png)
 
