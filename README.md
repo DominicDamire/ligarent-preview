@@ -1,6 +1,6 @@
 # LIGARENT
 
-A static, five-language website for a bulldozer rental business in Tatarstan: a scroll-driven video intro, a machine picker, job photo albums, a service-area map and an enquiry form that opens a ready-made Telegram message.
+A static, five-language website for a bulldozer rental business in Tatarstan: a scroll-driven video intro, a machine picker, job photo albums, a service-area map and an enquiry form that opens a ready-made Telegram message. Sold to a client.
 
 This repository is the source of the live site at **https://ligarent.com/** (GitHub Pages, custom domain via `CNAME`).
 
